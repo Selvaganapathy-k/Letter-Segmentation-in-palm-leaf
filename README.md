@@ -1,4 +1,3 @@
-:
 
 📌 Letter Segmentation in Palm Leaf Manuscripts
 
